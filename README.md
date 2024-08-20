@@ -1,8 +1,4 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ag21o9" alt="ag21o9" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 
@@ -11,6 +7,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer and DSA Problem Solver
 ------------------------------------ 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ag21o9" alt="ag21o9" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 🚀 Aspiring Software Engineer | Second Year B.Tech CSE Student Welcome to my professional space! I am a dynamic and ambitious First Year B.Tech Computer Science Engineering student with an insatiable passion for problem-solving and a relentless drive to learn and grow. Currently honing my coding prowess through platforms like "LeetCode," "GFG," and "Coding Ninjas," I am on a quest to become a versatile software engineer. 🌐 Exploring the World of Web Development My journey into the tech realm extends beyond the algorithms. I've ventured into the realm of web development, weaving together HTML, CSS, and JavaScript to bring my ideas to life. During my high school years, I translated my skills into practical projects, a testament to my commitment to continuous improvement. 💡 Key Skills Data Structures and Algorithms: Delving deep into the world of problem-solving. Programming Languages: Proficient in Python, C++, and Java. Web Development: Crafting engaging web experiences with HTML, CSS, and JavaScript. Project Management: Adept at organizing and executing projects efficiently. 🌱 On the Hunt for Knowledge and Mentorship My academic journey is just beginning, and I'm on the lookout for seasoned professionals who can provide mentorship. If you're an experienced software engineer, I would be honored to connect and absorb insights from your wealth of experience. 🤝 Open to Opportunities and Collaboration I am not just seeking mentorship but also eager to explore diverse opportunities and contribute to collaborative projects. The prospect of working in a team environment excites me, and I am ready to bring my skills to the table. 🔍 Looking Forward to Connecting If you resonate with my enthusiasm for learning and growing, or if you believe there's a valuable opportunity or project where I could make a meaningful contribution, please don't hesitate to reach out. Let's connect and explore the exciting possibilities together!
 
