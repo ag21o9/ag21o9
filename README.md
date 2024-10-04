@@ -15,7 +15,7 @@ Web Developer and DSA Problem Solver
 🚀 Aspiring Software Engineer | Second Year B.Tech CSE Student Welcome to my professional space! I am a dynamic and ambitious First Year B.Tech Computer Science Engineering student with an insatiable passion for problem-solving and a relentless drive to learn and grow. 
 
 * 🌍  I'm based in Gorakhpur , India
-* ✉️  You can contact me at [sr7324625@gmail.com](mailto:sr7324625@gmail.com)
+* ✉️  You can contact me at [ag21210909@gmail.com](mailto:ag21210909@gmail.com)
 * 🚀  I'm currently working on [WhisperVerse](http://versewhisper.onrender.com)
 * 🧠  I'm learning React JS Framework
 * 🤝  I'm open to collaborating on MERN Stack Projects
