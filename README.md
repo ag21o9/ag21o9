@@ -10,7 +10,9 @@ Web Developer and DSA Problem Solver
 <p align="left">
 </p>
 
-🚀 Aspiring Software Engineer | Second Year B.Tech CSE Student Welcome to my professional space! I am a dynamic and ambitious second-year B.Tech Computer Science Engineering student with an insatiable passion for problem-solving and a relentless drive to learn and grow. 
+As a Full Stack Developer at Euonus IT, I focus on crafting backend systems that power smooth user experiences. With a knack for developing efficient APIs and managing databases, my work ensures robust functionality and reliability across web platforms.
+
+My educational pursuit in Computer Science at DDU Gorakhpur University complements my technical expertise, particularly in Data Structures and Algorithms. Our team's third place at the SoarX DevX JMI Hackathon illustrates my problem-solving capabilities and passion for collaborative innovation in web development.
 
 * 🌍  I'm based in Gorakhpur, India
 * ✉️  You can contact me at [ag21210909@gmail.com](mailto:ag21210909@gmail.com)
