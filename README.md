@@ -43,7 +43,7 @@ src="https://img.shields.io/twitter/follow/AbhijeetGu81159?logo=twitter&style=fo
 [![An image of @ag21o9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ag21o9)](https://holopin.io/@ag21o9)
 
 ### GitHub Stats
-![](https://komarev.com/ghpvc/?username=ag21o9)
+![](https://komarev.com/ghpvc/?username=ag21o9&color=green)
 
 
 <a href="http://www.github.com/ag21o9"><img src="https://github-readme-stats.vercel.app/api?username=ag21o9&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ag21o9's GitHub stats" /></a>
