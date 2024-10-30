@@ -6,9 +6,6 @@ Web Developer and DSA Problem Solver
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ag21o9" alt="ag21o9" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 
@@ -23,6 +20,9 @@ Web Developer and DSA Problem Solver
 </a>
 </div>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 As a Full Stack Developer at Euonus IT, I focus on crafting backend systems that power smooth user experiences. With a knack for developing efficient APIs and managing databases, my work ensures robust functionality and reliability across web platforms.
 
