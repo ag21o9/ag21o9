@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and DSA Problem Solver
 ------------------------------------ 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ag21o9" alt="ag21o9" /></a> </p>
+<p align="left" size="20px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ag21o9" alt="ag21o9" /></a> </p>
 
 
 
