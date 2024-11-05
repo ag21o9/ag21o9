@@ -61,11 +61,17 @@ src="https://img.shields.io/twitter/follow/AbhijeetGu81159?logo=twitter&style=fo
 
 [![An image of @ag21o9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ag21o9)](https://holopin.io/@ag21o9)
 
-### GitHub Stats
-![](https://komarev.com/ghpvc/?username=ag21o9&color=green&style=flat-for-the-badge)
+## *Stats:*
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushal34712&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="kushal34712" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal34712&show_icons=true&locale=en&theme=react&border_radius=10" alt="kushal34712" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushal34712&theme=react&border_radius=10" alt="kushal34712" /></p>
+
+ <div align="center"> <img src="https://ssr-contributions-svg.vercel.app/_/kushal34712?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true"> </div>
 
 
-<a href="http://www.github.com/ag21o9"><img src="https://github-readme-stats.vercel.app/api?username=ag21o9&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ag21o9's GitHub stats" /></a>
-
-<a href="http://www.github.com/ag21o9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ag21o9&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<hr/>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!+✌️;+Connect+me+on+Linkedin!;I'm+always+ready+to+collab+:)">
+</h3>
