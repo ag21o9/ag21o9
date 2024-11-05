@@ -62,7 +62,6 @@ src="https://img.shields.io/twitter/follow/AbhijeetGu81159?logo=twitter&style=fo
 [![An image of @ag21o9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ag21o9)](https://holopin.io/@ag21o9)
 
 ## *Stats:*
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ag21o9&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="ag21o9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ag21o9&show_icons=true&locale=en&theme=react&border_radius=10" alt="ag21o9" /></p>
 
