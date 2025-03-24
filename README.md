@@ -34,7 +34,7 @@ My educational pursuit in Computer Science at DDU Gorakhpur University complemen
 
 * 🌍  I'm based in Gorakhpur, India
 * ✉️  You can contact me at [ag21210909@gmail.com](mailto:ag21210909@gmail.com)
-* 🚀  I'm currently working on [WhisperVerse](http://versewhisper.onrender.com)
+* 🚀  I'm currently working on RoadEye Safety System
 * 🧠  I'm learning React JS Framework
 * 🤝  I'm open to collaborating on MERN Stack Projects
 * ⚡  I am also Practicing DSA in cpp language
