@@ -6,7 +6,7 @@ Web Developer and DSA Problem Solver
 
 ## Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ag21o9" alt="ag21o9" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=ag21o9](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)" alt="ag21o9" /></a> </p>
 
 
 
