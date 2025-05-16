@@ -65,14 +65,20 @@ src="https://img.shields.io/twitter/follow/AbhijeetGu81159?logo=twitter&style=fo
 [![An image of @ag21o9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ag21o9)](https://holopin.io/@ag21o9)
 
 ## *Stats:*
-<p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ag21o9&show_icons=true&locale=en&theme=react&border_radius=10" alt="ag21o9" /></p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ag21o9&show_icons=true&locale=en&theme=react&border_radius=10" alt="ag21o9" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ag21o9&theme=react&border_radius=10" alt="ag21o9" />
+  
+  <br><br>
+  
+  <img src="https://ssr-contributions-svg.vercel.app/_/ag21o9?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true" alt="3D Contributions" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ag21o9&theme=react&border_radius=10" alt="ag21o9" /></p>
+</div>
 
- <div align="center"> <img src="https://ssr-contributions-svg.vercel.app/_/ag21o9?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true"> </div>
-
-</p>
 
 <hr/>
 <h3 align="center">
