@@ -6,7 +6,7 @@ Web Developer and DSA Problem Solver
 
 ## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ag21o9)](https://github.com/ag21o9/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ag21o9)](https://github.com/ag21o9/github-profile-trophy&row=2&column=3)
 
 
 
