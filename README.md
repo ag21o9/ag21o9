@@ -5,8 +5,11 @@ Web Developer and DSA Problem Solver
 ------------------------------------ 
 
 ## Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ag21o9)](https://github.com/ag21o9/github-profile-trophy&row=3&column=3)
+<p align="center">
+  <a href="https://github.com/ag21o9/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ag21o9&row=3&column=3" alt="trophy" />
+  </a>
+</p>
 
 
 
