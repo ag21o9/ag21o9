@@ -72,9 +72,9 @@ src="https://img.shields.io/twitter/follow/AbhijeetGu81159?logo=twitter&style=fo
 
  <div align="center"> <img src="https://ssr-contributions-svg.vercel.app/_/ag21o9?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true"> </div>
 
+</p>
 
 <hr/>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!+✌️;+Connect+me+on+Linkedin!;I'm+always+ready+to+collab+:)">
 </h3>
-</p>
