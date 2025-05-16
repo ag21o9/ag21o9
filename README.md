@@ -6,8 +6,7 @@ Web Developer and DSA Problem Solver
 
 ## Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=ag21o9](https://github-profile-trophy.vercel.app/?username=ag21o9&theme=onedark)" alt="ag21o9" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ag21o9)](https://github.com/ag21o9/github-profile-trophy)
 
 
 
