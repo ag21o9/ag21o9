@@ -76,9 +76,3 @@ src="https://img.shields.io/twitter/follow/AbhijeetGu81159?logo=twitter&style=fo
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ag21o9&theme=transparent" alt="Most Commit Language">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ag21o9&bg_color=141414&color=cce6ff&line=61dafb&point=00bfff&area=true&hide_border=true" alt="Activity Graph">
 
-
-
-<hr/>
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!+✌️;+Connect+me+on+Linkedin!;I'm+always+ready+to+collab+:)">
-</h3>
