@@ -64,20 +64,18 @@ src="https://img.shields.io/twitter/follow/AbhijeetGu81159?logo=twitter&style=fo
 
 [![An image of @ag21o9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ag21o9)](https://holopin.io/@ag21o9)
 
-## *Stats:*
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ag21o9&show_icons=true&locale=en&theme=react&border_radius=10" alt="ag21o9" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ag21o9&theme=react&border_radius=10" alt="ag21o9" />
-  
-  <br><br>
-  
-  <img src="https://ssr-contributions-svg.vercel.app/_/ag21o9?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true" alt="3D Contributions" />
 
-</div>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<div align="center">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ag21o9&theme=transparent" alt="Profile Details">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ag21o9&theme=transparent" alt="GitHub Stats">
+<img height="168em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ag21o9&hide=HTML,css,scss,cmake,swift&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages">
+
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=ag21o9&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub ReadMe Stats">
+
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ag21o9&theme=transparent" alt="Most Commit Language">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ag21o9&bg_color=141414&color=cce6ff&line=61dafb&point=00bfff&area=true&hide_border=true" alt="Activity Graph">
+
 
 
 <hr/>
