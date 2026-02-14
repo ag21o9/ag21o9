@@ -71,7 +71,5 @@ src="https://img.shields.io/twitter/follow/AbhijeetGu81159?logo=twitter&style=fo
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ag21o9&theme=transparent" alt="GitHub Stats">
 <img height="168em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ag21o9&hide=HTML,css,scss,cmake,swift&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages">
 
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=ag21o9&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub ReadMe Stats">
-
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ag21o9&theme=transparent" alt="Most Commit Language">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ag21o9&bg_color=141414&color=cce6ff&line=61dafb&point=00bfff&area=true&hide_border=true" alt="Activity Graph">
