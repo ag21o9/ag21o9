@@ -34,12 +34,8 @@ As a Full Stack Developer at Euonus IT, I focus on crafting backend systems that
 
 My educational pursuit in Computer Science at DDU Gorakhpur University complements my technical expertise, particularly in Data Structures and Algorithms. Our team's third place at the SoarX DevX JMI Hackathon illustrates my problem-solving capabilities and passion for collaborative innovation in web development.
 
-* 🌍  I'm based in Gorakhpur, India
-* ✉️  You can contact me at [itsabhijeetgupta.work@gmail.com](mailto:itsabhijeetgupta.work@gmail.com)
-* 🚀  I'm currently working on RoadEye Safety System
-* 🧠  I'm learning React JS Framework
-* 🤝  I'm open to collaborating on MERN Stack Projects
-* ⚡  I am also practising DSA in C++ language
+* I'm based in Kanpur, Uttar Pradesh, India
+* You can contact me at [itsabhijeetgupta.work@gmail.com](mailto:itsabhijeetgupta.work@gmail.com)
 
 <a href="https://www.github.com/ag21o9" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ag21o9?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/AbhijeetGu81159" target="_blank" rel="noreferrer"><img
