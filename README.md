@@ -22,7 +22,7 @@ Backend developer focused on distributed systems and performance — caching lay
 
 <ul>
   
-<li>🔭 Currently building backend infrastructure at GRHM (Node.js, PostgreSQL, Redis, BullMQ)<lil>
+<li>🔭 Currently building backend infrastructure at GRHM (Node.js, PostgreSQL, Redis, BullMQ)<li>
 <li>🚀 Co-founder at Garun Technologies — shipping full-stack apps for clients across India</li>
 <li>🧠 Exploring agentic AI workflows (LangChain, n8n)</li>
 <li>🏆 3rd place, DevX JMI Hackathon (Jamia Millia Islamia)</li>
