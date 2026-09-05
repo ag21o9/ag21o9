@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhijeet Gupta 
+Hi 👋, I'm Abhijeet Gupta
 ======================================================================================================================================
 
 Web Developer and DSA Problem Solver
@@ -18,9 +18,15 @@ Web Developer and DSA Problem Solver
 <p align="left">
 </p>
 
-As a Full Stack Developer at Euonus IT, I focus on crafting backend systems that power smooth user experiences. With a knack for developing efficient APIs and managing databases, my work ensures robust functionality and reliability across web platforms.
+Backend developer focused on distributed systems and performance — caching layers, queue-based architectures, and scalable APIs.
 
-My educational pursuit in Computer Science at DDU Gorakhpur University complements my technical expertise, particularly in Data Structures and Algorithms. Our team's third place at the SoarX DevX JMI Hackathon illustrates my problem-solving capabilities and passion for collaborative innovation in web development.
+<li>
+  
+<ul>🔭 Currently building backend infrastructure at GRHM (Node.js, PostgreSQL, Redis, BullMQ)</ul>
+<ul>🚀 Co-founder at Garun Technologies — shipping full-stack apps for clients across India</ul>
+<ul>🧠 Exploring agentic AI workflows (LangChain, n8n)</ul>
+<ul>🏆 3rd place, DevX JMI Hackathon (Jamia Millia Islamia)</ul>
+</li>
 
 * I'm based in Kanpur, Uttar Pradesh, India
 * You can contact me at [itsabhijeetgupta.work@gmail.com](mailto:itsabhijeetgupta.work@gmail.com)
