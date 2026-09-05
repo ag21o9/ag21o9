@@ -20,13 +20,14 @@ Web Developer and DSA Problem Solver
 
 Backend developer focused on distributed systems and performance — caching layers, queue-based architectures, and scalable APIs.
 
-<li>
+<ul>
   
-<ul>🔭 Currently building backend infrastructure at GRHM (Node.js, PostgreSQL, Redis, BullMQ)</ul>
-<ul>🚀 Co-founder at Garun Technologies — shipping full-stack apps for clients across India</ul>
-<ul>🧠 Exploring agentic AI workflows (LangChain, n8n)</ul>
-<ul>🏆 3rd place, DevX JMI Hackathon (Jamia Millia Islamia)</ul>
-</li>
+<li>🔭 Currently building backend infrastructure at GRHM (Node.js, PostgreSQL, Redis, BullMQ)<lil>
+<li>🚀 Co-founder at Garun Technologies — shipping full-stack apps for clients across India</li>
+<li>🧠 Exploring agentic AI workflows (LangChain, n8n)</li>
+<li>🏆 3rd place, DevX JMI Hackathon (Jamia Millia Islamia)</li>
+
+</ul>
 
 * I'm based in Kanpur, Uttar Pradesh, India
 * You can contact me at [itsabhijeetgupta.work@gmail.com](mailto:itsabhijeetgupta.work@gmail.com)
